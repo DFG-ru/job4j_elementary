@@ -14,7 +14,7 @@ public class FitTest {
     }
 
     @Test
-    public void whenWoman170Then69() {
+    public void whenWoman180Then80dot5() {
         short in = 180;
         double expected = 80.5;
         double eps = 0.01;
